@@ -1,0 +1,30 @@
+.header {
+  height: 28px;
+  background-color: #d73019;
+  color: whitesmoke;
+  font-size: 14px;
+  text-align: center;
+  padding-top: 6px;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.sangsiri-logo {
+  width: 100%;
+  margin-top: 39px;
+}
+
+.text-product-promo {
+  font-size: 24px;
+  text-shadow: 
+    3px 3px 3px rgba(75, 75, 75, 0.2);
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 19px;
+
+}
+
