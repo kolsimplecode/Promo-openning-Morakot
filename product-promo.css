@@ -46,6 +46,7 @@
   height: 200px;
   object-fit: contain;
   object-position: center;
+  pointer-events: none;
 }
 
 .shop-name {
