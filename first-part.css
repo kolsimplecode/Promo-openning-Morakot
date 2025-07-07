@@ -28,3 +28,13 @@
 
 }
 
+.free-gift-text {
+  font-size: 15px;
+  color: rgb(95, 95, 95);
+  text-shadow: 
+    3px 3px 3px rgba(97, 97, 97, 0.2);
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 19px;
+}
+
