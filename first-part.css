@@ -18,6 +18,21 @@
   margin-top: 39px;
 }
 
+.shop-icon-container {
+  display: flex;
+  justify-content: center;
+}
+
+.shop-icon-link{
+  display: contents;
+  justify-content: center;
+}
+
+.shop-icon {
+  width: 10%;
+
+}
+
 .text-product-promo {
   font-size: 24px;
   text-shadow: 
