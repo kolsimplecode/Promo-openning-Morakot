@@ -3,3 +3,8 @@
   margin-top: 39px;
   position: absolute;
 }
+
+.sangsiri-info:hover {
+  opacity: 0.91;
+  trasition: 0.15s;
+}
