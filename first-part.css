@@ -33,7 +33,6 @@
 }
 
 .shop-icon:hover {
-  background-color: rgb(245, 241, 236);
   box-shadow: 3px 3px 3px rgba(75, 75, 75, 0.2);
   opacity: 0.93;
   transition: 0.15s;
