@@ -48,6 +48,15 @@
 
 }
 
+.comimg-soon-text {
+  text-align: center;
+  color: #d73019;
+  font-size: 35px;
+  font-weight: 600;
+  text-shadow: 
+    3px 3px 3px rgba(75, 75, 75, 0.2);
+}
+
 .free-gift-text {
   font-size: 15px;
   color: rgb(95, 95, 95);
